@@ -3,9 +3,6 @@ using namespace std;
 
 int main() {
 
-    cout << "Hello World!" << endl;
-
-    cout << "Hello World!" << endl;
-
+   // bai 2
     return 0;
 }
